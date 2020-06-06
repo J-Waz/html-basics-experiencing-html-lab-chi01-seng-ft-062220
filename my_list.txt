@@ -1,5 +1,5 @@
-<li>"System of a Down"
-<li>"Weezer"
-<li>"Led Zepelin"
-<li>"Kings of Leon"
-<li>"Stadium Arcadia"
+<li>"System of a Down"</li>
+<li>"Weezer"</li>
+<li>"Led Zepelin"</li>
+<li>"Kings of Leon"</li>
+<li>"Stadium Arcadia"</li>
